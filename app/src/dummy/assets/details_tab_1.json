@@ -1,0 +1,249 @@
+[
+  {
+    "id": "226295",
+    "wordId": 5693,
+    "difficultyLevel": null,
+    "partOfSpeechCode": "n",
+    "prefix": null,
+    "text": "tab",
+    "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/79267e70597dc56bc2ac9bfa0dce3af8.mp3",
+    "transcription": "tæb",
+    "properties": {
+      "falseFriends": [],
+      "collocation": false,
+      "countability": "c",
+      "irregularPlural": false
+    },
+    "updatedAt": "2018-12-06 04:56:44",
+    "mnemonics": null,
+    "translation": {
+      "text": "прихватка",
+      "note": "кухонная"
+    },
+    "images": [
+      {
+        "url": "//static.skyeng.ru/image/download/project/dictionary/id/28312/width/200/height/150/quality/50"
+      }
+    ],
+    "definition": {
+      "text": "A short strip of material attached to or projecting from something in order to facilitate opening or identifying or handling it.",
+      "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/c3e70c36a16ab1127254698501267d21.mp3"
+    },
+    "examples": [
+      {
+        "text": "The collar has a [tab tab] with a button hole. The collar has a [tab] with a button hole. The collar has a [tab] with a button hole. The collar has a [tab] with a button hole. The collar has a [tab] with a button hole.",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/f7b66c5739028c6551d64f3add5cf7e3.mp3"
+      },
+      {
+        "text": "Pull the [tab] to open the can. Pull the [tab] to open the can. Pull the [tab] to open the can. Pull the [tab] to open the can. Pull the [tab] to open the can.",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/412aa65f50c18e2dade46cefb920bf08.mp3"
+      },
+      {
+        "text": "Files with a red [tab] will be stored separately.",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/d43b79340c336563bd213a7d354c68b4.mp3"
+      },
+      {
+        "text": "The filing cards were organized by cards having indexed [tabs].",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/8e770dbd2d51134099fbf8f8e37d5698.mp3"
+      }
+    ],
+    "meaningsWithSimilarTranslation": [
+      {
+        "meaningId": 226295,
+        "frequencyPercent": "16.7",
+        "partOfSpeechAbbreviation": "сущ.",
+        "translation": {
+          "text": "прихватка",
+          "note": "кухонная"
+        }
+      },
+      {
+        "meaningId": 226294,
+        "frequencyPercent": "16.7",
+        "partOfSpeechAbbreviation": "сущ.",
+        "translation": {
+          "text": "клавиша табуляции",
+          "note": ""
+        }
+      },
+      {
+        "meaningId": 258983,
+        "frequencyPercent": "16.7",
+        "partOfSpeechAbbreviation": "сущ.",
+        "translation": {
+          "text": "вкладка",
+          "note": ""
+        }
+      },
+      {
+        "meaningId": 226296,
+        "frequencyPercent": "16.7",
+        "partOfSpeechAbbreviation": "сущ.",
+        "translation": {
+          "text": "пилюля",
+          "note": ""
+        }
+      },
+      {
+        "meaningId": 226293,
+        "frequencyPercent": "16.7",
+        "partOfSpeechAbbreviation": "сущ.",
+        "translation": {
+          "text": "жёлтая журналистика",
+          "note": ""
+        }
+      },
+      {
+        "meaningId": 226292,
+        "frequencyPercent": "16.7",
+        "partOfSpeechAbbreviation": "сущ.",
+        "translation": {
+          "text": "чек",
+          "note": ""
+        }
+      }
+    ],
+    "alternativeTranslations": [
+      {
+        "text": "fawn",
+        "translation": {
+          "text": "желто-коричневый цвет",
+          "note": null
+        }
+      },
+      {
+        "text": "fit",
+        "translation": {
+          "text": "приступ",
+          "note": "чего-либо"
+        }
+      },
+      {
+        "text": "tale",
+        "translation": {
+          "text": "рассказ",
+          "note": null
+        }
+      },
+      {
+        "text": "much",
+        "translation": {
+          "text": "многое",
+          "note": ""
+        }
+      },
+      {
+        "text": "zoo",
+        "translation": {
+          "text": "зоопарк",
+          "note": null
+        }
+      },
+      {
+        "text": "yoga",
+        "translation": {
+          "text": "йога",
+          "note": null
+        }
+      },
+      {
+        "text": "norm",
+        "translation": {
+          "text": "норма",
+          "note": null
+        }
+      },
+      {
+        "text": "sand",
+        "translation": {
+          "text": "песок",
+          "note": null
+        }
+      },
+      {
+        "text": "hasp",
+        "translation": {
+          "text": "засов",
+          "note": null
+        }
+      },
+      {
+        "text": "bogy",
+        "translation": {
+          "text": "неопознанный самолет",
+          "note": null
+        }
+      },
+      {
+        "text": "eve",
+        "translation": {
+          "text": "канун",
+          "note": null
+        }
+      },
+      {
+        "text": "aunt",
+        "translation": {
+          "text": "тётя",
+          "note": null
+        }
+      },
+      {
+        "text": "fuse",
+        "translation": {
+          "text": "предохранитель",
+          "note": null
+        }
+      },
+      {
+        "text": "gum",
+        "translation": {
+          "text": "десна",
+          "note": null
+        }
+      },
+      {
+        "text": "gaze",
+        "translation": {
+          "text": "пристальный взгляд",
+          "note": null
+        }
+      },
+      {
+        "text": "lord",
+        "translation": {
+          "text": "повелитель",
+          "note": null
+        }
+      },
+      {
+        "text": "swan",
+        "translation": {
+          "text": "лебедь",
+          "note": null
+        }
+      },
+      {
+        "text": "room",
+        "translation": {
+          "text": "комната",
+          "note": null
+        }
+      },
+      {
+        "text": "crew",
+        "translation": {
+          "text": "команда",
+          "note": null
+        }
+      },
+      {
+        "text": "dean",
+        "translation": {
+          "text": "декан",
+          "note": null
+        }
+      }
+    ]
+  }
+]

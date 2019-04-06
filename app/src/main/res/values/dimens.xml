@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">400dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="text_detail_small">14sp</dimen>
+    <dimen name="text_detail_medium">18sp</dimen>
+    <dimen name="detail_title_layout_height">70dp</dimen>
+
+</resources>

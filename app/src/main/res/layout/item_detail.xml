@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".features.meaning.MeaningDetailsFragment">
+
+    <TextView
+        android:id="@+id/item_transcription"
+        style="@style/Details_ValueText"
+        android:paddingLeft="0dp"
+        android:layout_marginStart="@dimen/text_margin"
+        android:layout_marginTop="8dp"
+        android:focusable="false"
+        android:textSize="@dimen/text_detail_medium"
+        android:layout_marginEnd="60dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/playButton"
+        tools:text="tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb" />
+
+    <com.tuvv.tword.utils.components.TextAndSoundPlayerButton
+        android:visibility="gone"
+        tools:visibility="visible"
+        android:id="@+id/playButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingEnd="@dimen/text_margin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+         />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/item_transcription"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/text_margin"
+        android:paddingRight="@dimen/text_margin">
+
+        <TextView
+            android:id="@+id/item_translation_title"
+            android:visibility="gone"
+            tools:visibility="visible"
+            style="@style/Details_CaptionText"
+            android:text="@string/translation" />
+
+        <TextView
+            android:id="@+id/item_translation"
+            android:visibility="gone"
+            tools:visibility="visible"
+            style="@style/Details_ValueText"
+            android:textSize="@dimen/text_detail_medium"
+            tools:text="Это русский текст\n(перевод)" />
+
+        <LinearLayout
+            android:id="@+id/moreDetailsLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/Details_CaptionText"
+                android:text="@string/definition" />
+
+            <com.tuvv.tword.utils.components.TextAndSoundPlayerButton
+                android:id="@+id/item_definition"
+                style="@style/Details_ValueText"
+                app:textAppearance="@style/TextAppearance.Details.SimpleText"
+                app:textIsSelectable="true"
+                tools:text="A short strip of material attached to or projecting from something in order to facilitate opening or identifying or handling it." />
+
+            <TextView
+                android:id="@+id/examplesTitle"
+                android:visibility="gone"
+                tools:visibility="visible"
+                style="@style/Details_CaptionText"
+                android:text="@string/examples" />
+
+            <com.tuvv.tword.utils.components.TextAndSoundPlayerButton
+                android:id="@+id/exampleTemplate"
+                style="@style/Details_ValueText"
+                app:textAppearance="@style/TextAppearance.Details.SimpleText"
+                android:visibility="gone"
+                app:textIsSelectable="true"
+                tools:visibility="visible"
+                android:paddingBottom="4dp"
+                tools:text="Template element for example views" />
+
+            <LinearLayout
+                android:id="@+id/examplesContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

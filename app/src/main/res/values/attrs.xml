@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SoundPlayerButton">
+        <attr name="leftIconInset" format="dimension" />
+        <attr name="state" format="enum">
+            <enum name="normal" value="0" />
+            <enum name="downloading" value="1" />
+            <enum name="playing" value="2" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="TextAndSoundPlayerButton">
+        <attr name="text" format="string"/>
+        <attr name="textAppearance" format="reference"/>
+        <attr name="lineSpacingMultiplier" format="float"/>
+        <attr name="state"/>
+        <attr name="buttonOnRightSide" format="boolean" />
+        <attr name="buttonVisible" format="boolean" />
+        <attr name="maxLines" format="integer" />
+        <attr name="textIsSelectable" format="boolean" />
+    </declare-styleable>
+</resources>

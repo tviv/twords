@@ -1,0 +1,47 @@
+<resources>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="search_hint">Search word</string>
+    <string name="no_results">no results</string>
+    <string name="error_happened_default">network problem, try later!</string>
+    <string name="definition">definition</string>
+    <string name="transcription">transcription</string>
+    <string name="examples">examples</string>
+    <string name="translation">russian translation</string>
+    <string name="i_am_waiting">I\'m waiting…</string>
+    <string name="let_us_start_to_search">Let\'s start to search\n(enter a word in the top search bar)</string>
+    <string name="play_error_happend">playback not working</string>
+    <string name="error">error</string>
+    <string name="no_internet">no internet</string>
+    <string name="powered_by" translatable="false">powered by</string>
+    <string name="definition_picture">definition picture</string>
+    <string name="image_loading_error">image loading problem occurred</string>
+    <string name="start_from_search">"Start the search by typing in the search bar of the English word (or words)!\nAnd you will see all the variants of its meaning with photos!"</string>
+    <string name="open_details_by_clicking">Click on one of the options from the list and learn more about the meaning!</string>
+    <string name="settings">Settings</string>
+
+    <!-- Settings -->
+    <string name="show_tutorial">Show Tutorial</string>
+    <string name="is_russian_translation">Russian translation visibility</string>
+    <string name="is_russian_translation_title">Russian translation visibility</string>
+    <string-array name="is_russian_translation_list_titles">
+        <item>Depending on the language setting</item>
+        <item>Show</item>
+        <item>Hide</item>
+    </string-array>
+
+    <!-- Strings related to Setting keys -->
+
+    <string name="show_settings_tutorialKey" translatable="false">showTutorial</string>
+    <string name="settings_isRussianTranslationKey" translatable="false">isRussianTranslation</string>
+    <string name="turn_on_text_selectable_mode">Turned on the text selectable mode\n(to turn off, make a long click on the sound icon)</string>
+    <string name="turn_off_text_selectable_mode">Turned off the text selectable mode</string>
+    <string-array name="is_russian_translation_list_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+</resources>
+
+
+

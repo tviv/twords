@@ -1,0 +1,416 @@
+[
+  {
+    "id": 5693,
+    "text": "tab",
+    "meanings": [
+      {
+        "id": 226295,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "прихватка",
+          "note": "кухонная"
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/28312/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/28312/width/640/height/480",
+        "transcription": "tæb",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/79267e70597dc56bc2ac9bfa0dce3af8.mp3"
+      },
+      {
+        "id": 226294,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "клавиша табуляции",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/36059/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/36059/width/640/height/480",
+        "transcription": "tæb",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/79267e70597dc56bc2ac9bfa0dce3af8.mp3"
+      },
+      {
+        "id": 258983,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "вкладка",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/189049/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/189049/width/640/height/480",
+        "transcription": "tæb",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/d6df076dc60abedfda39b6719c0f0d6c9e72ba09cfa7dfc2f2f4f737303742f4.mp3"
+      },
+      {
+        "id": 226296,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "пилюля",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/6543/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/6543/width/640/height/480",
+        "transcription": "tæb",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/79267e70597dc56bc2ac9bfa0dce3af8.mp3"
+      },
+      {
+        "id": 226293,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "жёлтая журналистика",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/58113/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/58113/width/640/height/480",
+        "transcription": "tæb",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/79267e70597dc56bc2ac9bfa0dce3af8.mp3"
+      },
+      {
+        "id": 226292,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "чек",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/9412/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/9412/width/640/height/480",
+        "transcription": "tæb",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/79267e70597dc56bc2ac9bfa0dce3af8.mp3"
+      }
+    ]
+  },
+  {
+    "id": 52277,
+    "text": "tab key",
+    "meanings": [
+      {
+        "id": 206354,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "клавиша tab",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/36059/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/36059/width/640/height/480",
+        "transcription": "tæb kiː",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/21c3488903287b66248b79ccbe136fd0.mp3"
+      }
+    ]
+  },
+  {
+    "id": 179036,
+    "text": "control tab",
+    "meanings": [
+      {
+        "id": 254634,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "триммер",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/148874/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/148874/width/640/height/480",
+        "transcription": "kənˈtrəʊl tæb",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/ab45d215b05884d6e710676dd294d889defe9867f1135f309ed34f09d791f676.mp3"
+      }
+    ]
+  },
+  {
+    "id": 175994,
+    "text": "pick up the tab pick up the tab pick up the tab pick up the tab pick up the tab",
+    "meanings": [
+      {
+        "id": 250304,
+        "partOfSpeechCode": "phi",
+        "translation": {
+          "text": "брать на себя расходы",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/123209/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/123209/width/640/height/480",
+        "transcription": "pɪk ʌp ðə tæb pɪk ʌp ðə tæb pɪk ʌp ðə tæb pɪk ʌp ðə tæb pɪk ʌp ðə tæb pɪk ʌp ðə tæb",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/1eee2c89dfe853c81ac251e5b7a963e9.mp3"
+      }
+    ]
+  },
+  {
+    "id": 175164,
+    "text": "tab flip cap",
+    "meanings": [
+      {
+        "id": 249344,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "колпачок",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/163125/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/163125/width/640/height/480",
+        "transcription": "tæb flɪp ˈkæp",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/2445e212dbd8b27df6ef367619488447.mp3"
+      }
+    ]
+  },
+  {
+    "id": 95476,
+    "text": "keep tabs on",
+    "meanings": [
+      {
+        "id": 62059,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "следить за",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/163777/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/163777/width/640/height/480",
+        "transcription": "kiːp tæbz ɒn",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/83d27f4d7101701485a456e4f2f29d96.mp3"
+      }
+    ]
+  },
+  {
+    "id": 42059,
+    "text": "tabor",
+    "meanings": [
+      {
+        "id": 182589,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "маленький барабан",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/28755/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/28755/width/640/height/480",
+        "transcription": "ˈteɪbə",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/eeb45cb0bc3a3a10c9fd757aed442bdd.mp3"
+      }
+    ]
+  },
+  {
+    "id": 70482,
+    "text": "tabularise",
+    "meanings": [
+      {
+        "id": 48907,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "чтобы tabularise",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/41106/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/41106/width/640/height/480",
+        "transcription": "",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/b872ea66fc4e8af14acccc6848bb29a6.mp3"
+      }
+    ]
+  },
+  {
+    "id": 77411,
+    "text": "tabularize",
+    "meanings": [
+      {
+        "id": 167991,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "вносить в таблицу",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/41106/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/41106/width/640/height/480",
+        "transcription": "",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/b872ea66fc4e8af14acccc6848bb29a6.mp3"
+      }
+    ]
+  },
+  {
+    "id": 9745,
+    "text": "taboo",
+    "meanings": [
+      {
+        "id": 182601,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "табу",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/22606/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/22606/width/640/height/480",
+        "transcription": "təˈbuː",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/5ddc0da6fdce7012d65c96b2ab4db3f8.mp3"
+      },
+      {
+        "id": 182602,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "запрет",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/10226/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/10226/width/640/height/480",
+        "transcription": "təˈbuː",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/5ddc0da6fdce7012d65c96b2ab4db3f8.mp3"
+      },
+      {
+        "id": 182604,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "запрещенный",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/64697/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/64697/width/640/height/480",
+        "transcription": "təˈbuː",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/5ddc0da6fdce7012d65c96b2ab4db3f8.mp3"
+      },
+      {
+        "id": 182605,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "запретный",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/174991/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/174991/width/640/height/480",
+        "transcription": "təˈbuː",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/5ddc0da6fdce7012d65c96b2ab4db3f8.mp3"
+      },
+      {
+        "id": 182603,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "подвергать табу",
+          "note": null
+        },
+        "previewUrl": null,
+        "imageUrl": null,
+        "transcription": "təˈbuː",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/5ddc0da6fdce7012d65c96b2ab4db3f8.mp3"
+      }
+    ]
+  },
+  {
+    "id": 30412,
+    "text": "tabasco",
+    "meanings": [
+      {
+        "id": 15127,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "табаско",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/33483/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/33483/width/640/height/480",
+        "transcription": "təˈbæskəʊ",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/d9afbe546e3b72efa029913d57516161b3f5d8a7df2e25cd1ba66908f6ff075b.mp3"
+      },
+      {
+        "id": 15128,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "перец",
+          "note": ""
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/32734/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/32734/width/640/height/480",
+        "transcription": "təˈbæskəʊ",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/f03c1d2d504cef0e2be4e96c146b3979b3f5d8a7df2e25cd1ba66908f6ff075b.mp3"
+      },
+      {
+        "id": 15126,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "табаско",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/30662/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/30662/width/640/height/480",
+        "transcription": "təˈbæskəʊ",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/54ca723695761b20ba1337d3b715328fb3f5d8a7df2e25cd1ba66908f6ff075b.mp3"
+      }
+    ]
+  },
+  {
+    "id": 167309,
+    "text": "tablesaw",
+    "meanings": [
+      {
+        "id": 237888,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "отрезной станок со столом",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/103204/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/103204/width/640/height/480",
+        "transcription": "",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/b0ca5266dba067fe54d1fa3d20388d36.mp3"
+      }
+    ]
+  },
+  {
+    "id": 11245,
+    "text": "tableau",
+    "meanings": [
+      {
+        "id": 34345,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "живая картина",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/35929/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/35929/width/640/height/480",
+        "transcription": "ˈtæbləʊ",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/7729714d2de287c223aba4533531688b.mp3"
+      },
+      {
+        "id": 34346,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "живописная сцена",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/25532/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/25532/width/640/height/480",
+        "transcription": "ˈtæbləʊ",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/7729714d2de287c223aba4533531688b.mp3"
+      }
+    ]
+  },
+  {
+    "id": 43376,
+    "text": "tabriz",
+    "meanings": [
+      {
+        "id": 45953,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "тебриз",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/25758/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/25758/width/640/height/480",
+        "transcription": "",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/d493b9693007200c52316d1b239be992.mp3"
+      }
+    ]
+  },
+  {
+    "id": 11052,
+    "text": "tabletop",
+    "meanings": [
+      {
+        "id": 220500,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "крышка стола",
+          "note": null
+        },
+        "previewUrl": "//static.skyeng.ru/image/download/project/dictionary/id/27443/width/96/height/72",
+        "imageUrl": "//static.skyeng.ru/image/download/project/dictionary/id/27443/width/640/height/480",
+        "transcription": "ˈteɪblˌtɒp",
+        "soundUrl": "//dmsbj0x9fxpml.cloudfront.net/3bce2a9345a25371a9546d4f773fbda8.mp3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/textSoundWrapper"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        >
+    <TextView
+        android:id="@+id/textSound_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="dddf df sd dddddddddddddf fffffffs hhhh  sd dddddddddddddf fffffffs hhhh  sd dddddddddddddf fffffffs hhhh  sd dddddddddddddf fffffffs hhhh  sd dddddddddddddf fffffffs hhhh hhhhhhhhhhhhhhhhhhhhhh"
+        android:textIsSelectable="false"
+        android:paddingRight="@dimen/text_margin"
+        android:gravity="center_vertical"
+        tools:ignore="RtlHardcoded,RtlSymmetry" />
+        <ImageView
+            android:id="@+id/selectableIcon"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:visibility="gone"
+            tools:visibility="visible"
+            android:layout_alignParentEnd="true"
+            android:tint="?attr/colorButtonNormal"
+
+            app:srcCompat="@drawable/ic_content_copy_24dp"/>
+    </RelativeLayout>
+    <com.tuvv.tword.utils.components.SoundPlayerButton
+        android:id="@+id/textSound_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        />
+</LinearLayout>

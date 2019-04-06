@@ -1,0 +1,33 @@
+<resources>
+    <string name="title_item_detail">Слова</string>
+    <string name="search_hint">Поиск слова</string>
+    <string name="no_results">нет результатов поиска</string>
+    <string name="error_happened_default">нет доступа к серверу!</string>
+    <string name="definition">определение</string>
+    <string name="transcription">транскрипция</string>
+    <string name="examples">примеры</string>
+    <string name="translation">перевод на русский</string>
+    <string name="i_am_waiting">Я в ожидании…</string>
+    <string name="let_us_start_to_search">Начни поиск слов\n(введите слово в верхней панели поиска)</string>
+    <string name="play_error_happend">воспроизведение не возможно</string>
+    <string name="error">ошибка</string>
+    <string name="no_internet">нет подключения к интернету</string>
+    <string name="definition_picture">картинка определения</string>
+    <string name="image_loading_error">не загрузилось изображение</string>
+    <string name="start_from_search">Начни поиск с ввода в строку поиска интересующего английского слова!\nИ ты увидишь все варианты его значения с фото!</string>
+    <string name="open_details_by_clicking">Кликните на один из вариантов из списка и узнайте о значении более подробно!</string>
+    <string name="settings">Настройки</string>
+
+    <!-- Settings -->
+    <string name="show_tutorial">Показать обучение</string>
+    <string name="is_russian_translation">Отображение русского перевода</string>
+    <string name="is_russian_translation_title">Видимость</string>
+    <string name="turn_on_text_selectable_mode">Включен режим выбора текста\n(чтобы выключить, сделайте "долгий" щелчок по значку звука)</string>
+    <string name="turn_off_text_selectable_mode">Выключен режим выбора текста</string>
+    <string-array name="is_russian_translation_list_titles">
+        <item>В зависимости от системных настроек</item>
+        <item>Показывать</item>
+        <item>Скрыть</item>
+    </string-array>
+
+</resources>
