@@ -1,4 +1,4 @@
-# tword
+# twords dictionary
 English dictionary with images and sounds based on the open Skyeng api.
 
 play market: https://play.google.com/store/apps/details?id=com.tuvv.twords
